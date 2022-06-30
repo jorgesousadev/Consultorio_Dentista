@@ -42,7 +42,7 @@
 * git clone <https://github.com/JorgeSousaDev/Consultorio_Dentista.git>
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
-* cd 
+* cd Consultorio_Dentista
 
 ###### 3ª Vá para a pasta frontend
 * cd consultorio
