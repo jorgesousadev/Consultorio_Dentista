@@ -42,7 +42,7 @@
 * git clone <https://github.com/JorgeSousaDev/Consultorio_Dentista.git>
 
 ###### 2ª Acesse a pasta do projeto no terminal/cmd
-* cd API_Django_ReactJS
+* cd 
 
 ###### 3ª Vá para a pasta frontend
 * cd consultorio
@@ -55,4 +55,4 @@
 ###### 5ª Execute a aplicação 
 * npm start
 
-###### O frontend iniciará na porta: 3000 - Acesse: http://localhost:3000/
+###### O projeto iniciará na porta: 3000 - Acesse: http://localhost:3000/
