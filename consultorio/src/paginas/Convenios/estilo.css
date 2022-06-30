@@ -1,0 +1,75 @@
+.convenios-consultorio{
+    padding: 25px 0;
+    padding-top: 100px;
+}
+
+.convenios-container p {
+    color: #1682c0;
+}
+
+.convenios-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.primeiro-plano{
+    font-size: 2em;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    color: #37506C;
+    font-weight: bold;
+}
+
+.segundo-plano{
+    color: #ff6602;
+    font-size: 2em;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+h2{
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.passo .valor span {
+    font-size: 2.8125em;
+}
+
+
+.btn-contato {
+    border: 1px solid #1b3675;
+    border-radius: 3px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color:#1b3675;
+    color: #fff;
+}
+
+.btn-contato:hover {
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.1);
+}
+
+.titulo-convenios{
+    color: #320f74;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.subtitulo{
+    color: #1633d4;
+}
+
+.descricao{
+    color: #1682c0;
+}

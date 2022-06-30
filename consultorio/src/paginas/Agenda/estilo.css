@@ -1,0 +1,54 @@
+.agenda-consultorio{
+    padding: 20px 0;
+    padding-top: 100px;
+}
+
+.agenda-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+    left: 20px;
+}
+
+.btn-contato {
+    border: 1px solid #1b3675;
+    border-radius: 3px;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color:#1b3675;
+    color: #fff;
+}
+
+.btn-contato:hover {
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.1);
+}
+
+.agenda-consultorio h1 {
+    margin: 0;
+    color: #195f99;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+}
+
+.agende-consulta {
+    border-radius: 10px;
+    width: 400px;
+    height: 250px;
+    margin: 30px;
+    padding: 30px;
+    color: #1682c0;
+    text-align: end;
+  
+}
+
+
+input {
+	position: absolute; 
+	left: 485px;
+}
+
